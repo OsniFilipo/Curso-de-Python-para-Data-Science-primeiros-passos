@@ -1,1 +1,1 @@
-# Curso-de-Python-para-Data-Science-primeiros-passos
+# Curso-de-Python-para-Data-Science-linguagem-e-Numpy-da-Alura
