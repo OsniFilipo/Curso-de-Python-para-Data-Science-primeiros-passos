@@ -17,7 +17,7 @@ Este material é indicado para iniciantes em programação e pessoas interessada
 ## Como utilizar
 
 1. Faça o download ou clone este repositório.
-2. Abra o notebook `Projeto_Final_Python_Data_Science.ipynb` em seu ambiente preferido (recomendado: [Google Colab](https://colab.research.google.com/) ou Jupyter Notebook).
+2. Abra o notebook <a href="https://github.com/OsniFilipo/Curso-de-Python-para-Data-Science-primeiros-passos/blob/main/Projeto_Final_Python_Data_Science.ipynb"><i>`Projeto_Final_Python_Data_Science.ipynb`</i></a><span> em seu ambiente preferido (recomendado: [Google Colab](https://colab.research.google.com/) ou Jupyter Notebook).
 3. Siga as instruções e exemplos no notebook, executando e modificando o código para praticar.
 
 ## Sobre
